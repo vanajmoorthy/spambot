@@ -3,7 +3,7 @@
 
 Okay this is just a pretty simple script I wrote to spam someone on WhatsApp. It's pretty straight forward but I'll explain how to use it and the few caveats.
 
-## How to install
+## Installation
 
 * Install python (duh) from https://www.python.org/downloads/
 * Download the single spam.py file. 
