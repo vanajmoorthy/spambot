@@ -6,9 +6,8 @@ Okay this is just a pretty simple script I wrote to spam someone on WhatsApp. It
 ## Installation
 
 * Install python (duh) from https://www.python.org/downloads/
-* Download the single spam.py file. 
-* Install Selenium with ```pip install selenium```
-* Install Webdriver-Manager with ```pip install webdriver-manager```
+* Download the spam.py and requirements.txt or just clone the repo. 
+* Run the command ```pip install -r requirements.txt``` in your terminal.
 * Execute the script with ```python spam.py``` or just double click the file.
 
 Enter the inputs after the console prompts you and scan the QR code when WhatsApp Web pops up.
